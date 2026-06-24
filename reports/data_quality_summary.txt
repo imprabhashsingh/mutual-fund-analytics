@@ -1,0 +1,10 @@
+Data Quality Summary
+
+1. Total datasets loaded: 10
+2. Fund master records: 40
+3. Unique fund houses: 10
+4. Categories: Equity, Debt
+5. Total AMFI codes validated: 40
+6. Missing AMFI codes: 0
+7. All datasets loaded successfully
+8. No major data quality issues detected
