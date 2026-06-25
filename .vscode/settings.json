@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Mutual_Fund_db",
+            "database": "${workspaceFolder:Mutual_Fund_Analytics}/bluestock_mf.db"
+        }
+    ]
+}
